@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.todo-form__wrapper {
+  max-width: 400px;
+}
